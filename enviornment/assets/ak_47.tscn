@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://characters/player/ak_47 (1).dae" type="PackedScene" id=1]
+[ext_resource path="res://characters/player/tix.material" type="Material" id=2]
+
+[node name="ak_47 (1)" instance=ExtResource( 1 )]
+
+[node name="AK-47" parent="Armature_ak_47/Skeleton" index="0"]
+transform = Transform( 0.920893, 0.389815, -1.88692e-10, -0.389815, 0.920893, -2.02812e-08, -7.73217e-09, 1.87503e-08, 1, 0.405855, 0.465235, 0.34691 )
+material/0 = ExtResource( 2 )

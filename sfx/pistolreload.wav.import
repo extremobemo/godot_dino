@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/pistolreload.wav-dc6802ad45c18431b25a78c73d929b15.sample"
+
+[deps]
+
+source_file="res://sfx/pistolreload.wav"
+dest_files=[ "res://.import/pistolreload.wav-dc6802ad45c18431b25a78c73d929b15.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
